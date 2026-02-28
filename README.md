@@ -134,6 +134,8 @@ Precision improved substantially, indicating the augmented model makes fewer fal
 
 V2 demonstrated a 2.3× improvement on the hardest scene (aerial view), with more modest gains on eye-level scenes. Both models remain well below human-level counting ability in dense crowds.
 
+[View my notebook](https://nbviewer.org/github/sojourner-so/pedestrian-detection-occlusion/blob/main/Pedestrian_Detection_Project.ipynb)
+
 ---
 
 ## Key Findings
