@@ -26,10 +26,9 @@ pedestrian-detection-occlusion/
 │
 ├── Pedestrian_Detection_Project.ipynb   # Full executed notebook with outputs
 ├── README.md                            # This file
-├── sample_images/                       # Real-world test images used for evaluation
-│   ├── img1.jpg
-│   ├── img2.jpg
-│   └── img3.jpg
+├── img1.jpg                             # Real-world test images used for evaluation
+├── img2.jpg                             # Real-world test images used for evaluation
+├── img3.jpg                             # Real-world test images used for evaluation
 ```
 
 > **Note:** Dataset files and model weights are not stored in this repository due to size constraints. Pre-trained model weights are available via the links below. The full dataset can be reproduced by running the notebook from Section 1.
